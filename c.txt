@@ -1,1 +1,3 @@
 noi dung C
+
+cap nhat beta lan 2
